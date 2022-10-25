@@ -267,4 +267,5 @@ Alternatively, you can specify a single test file to run at a time:
 ```
 $ python3 unittest -m tests/test_console.py
 ```
-
+## Contributors
+[@Vincent Marsh - Github](https://github.com/hfsantiago) - [@Sharon Cherop - Github](https://github.com/robpalacios1)
