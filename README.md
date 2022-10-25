@@ -8,11 +8,11 @@ The AirBnB clone project starts now until… the end of the first year. The goal
 
 ## Table of contents :clipboard:
 
- - [Description](https://github.com/robpalacios1/AirBnB_clone/#description-triangular_ruler)
- - [Installation](https://github.com/robpalacios1/AirBnB_clone/#installation-floppy_disk)
- - [File description](https://github.com/robpalacios1/AirBnB_clone/blob/master/README.md#file-description-file_folder)
- - [Example](https://github.com/robpalacios1/AirBnB_clone#example-computer)
- - [Contributors](https://github.com/robpalacios1/AirBnB_clone#contributors)
+ - [Description](https://github.com/marshvin/AirBnB_clone/#description-triangular_ruler)
+ - [Installation](https://github.com/marshvin/AirBnB_clone/#installation-floppy_disk)
+ - [File description](https://github.com/marshvin/AirBnB_clone/blob/master/README.md#file-description-file_folder)
+ - [Example](https://github.com/marshvin/AirBnB_clone#example-computer)
+ - [Contributors](https://github.com/marshvin/AirBnB_clone#contributors)
 
 ## Description :triangular_ruler:
 
