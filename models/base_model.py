@@ -28,6 +28,17 @@ class BaseModel:
         else:
             models.storage.new(self)
 
+    def to_dict(self):
+        """Return the dictionary of the BaseModel instance.
+        Includes the key/value pair __class__ representing
+        the class name of the object.
+        """
+        rdict = self.__dict__.copy()
+        rdict["created_at"] = self.created_at.isoformat()
+        rdict["updated_at"] = self.updated_at.isoformat()
+        rdict["__class__"] = self.__class__.__name__
+        return rdict
+
     def save(self):
         """update updated_at with the current datetme"""
         self.updated_at = datetime.today()
