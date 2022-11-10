@@ -1,0 +1,1 @@
+This folder contains the individual html pages for the Airbnb project. 
